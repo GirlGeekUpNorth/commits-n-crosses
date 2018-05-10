@@ -1,10 +1,10 @@
-Commits N Crosses
+ Commits N Crosses
 =================
 
  Game Board:
 
 	|---|---|---|
-	|   |   |   |
+	| X |   |   |
 	|---|---|---|
 	|   |   |   |
 	|---|---|---|
@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: ________
+ Player X: GirlGeekUpNorth
  
- Player O: ________
+ Player O: Nocturnal726
 
 -------------
 
